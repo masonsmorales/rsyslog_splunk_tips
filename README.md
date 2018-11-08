@@ -12,3 +12,5 @@ Helpful rsyslog resources I've come across:
 * https://www.digitalocean.com/community/tutorials/how-to-centralize-logs-with-rsyslog-logstash-and-elasticsearch-on-ubuntu-14-04 (Logstash guide)
 * https://github.com/rsyslog/rsyslog/issues/545 (Adding more fields to fileformat template)
 * https://techpunch.co.uk/development/how-to-shop-json-logs-via-rsyslog (Using rsyslog to send logs in JSON format)
+* https://selivan.github.io/2017/02/07/rsyslog-log-forward-save-filename-handle-multi-line-failover.html
+* https://linux-help.org/wiki/logging/rsyslog/advanced-rsyslog
