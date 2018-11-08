@@ -1,0 +1,4 @@
+- Docker containers to run rsyslog->HEC hosts
+- HAProxy Ansible role to setup high-availability VIP in front of rsyslog-> HEC hosts
+- Python script for simple rsyslog rule generation
+- Use of indexer acknowledgement in HEC script or some kind of caching layer to prevent HTTP POSTs from being lost in the event an indexer is down
